@@ -1,0 +1,1 @@
+This is the React project for the admin privileges given to instructors.
